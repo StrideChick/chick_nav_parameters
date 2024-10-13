@@ -1,0 +1,12 @@
+param_sample:
+  sample: {
+    type: string,
+    default_value: "sample",
+    description: "param_sample",
+  }
+
+  waypoint_radius: {
+    type: double,
+    default_value: 0.0,
+    description: "sample_value",
+  }
