@@ -4,7 +4,7 @@ navパッケージの各パラメータ設定パッケージ
 # depend
 - generate_parameter_library
 
-install generate-parameter-library
+install 
 ```
 sudo apt install ros-humble-generate-parameter-library
 ```
