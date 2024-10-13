@@ -1,6 +1,9 @@
 # chick_nav_parameters
 navパッケージの各パラメータ設定パッケージ
 
+# depend
+- generate_parameter_library
+
 ## how to use
 param set
 ```
